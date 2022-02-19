@@ -1,6 +1,8 @@
-## Olá Eu Sou o Matheus Santos,<br>
+## Olá Eu Sou o Matheus Santos,<br><img src="https://s10.gifyu.com/images/hacking.gif"  width="300em" margin-left="20em" align="right" alt="hacking.gif" border="0" /></a>
  🔒 Analista de Segurança Pleno <br>
  📘 Estudando Desenvolvimento de Web3 Solidity <br>
+ <br><br><br><br>
+
 <div align="center">
   <a href="https://github.com/matheussantosjjj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diego3g&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -23,7 +25,6 @@
   <a href = "mailto:matheussantosjjjj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheussants/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- <a href="https://gifyu.com/image/Szfdo"><img src="https://s10.gifyu.com/images/hacking.gif" padding-right="20px" width="350em"  alt="hacking.gif" border="0" /></a>
 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
